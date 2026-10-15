@@ -1,0 +1,6 @@
+{
+  "name": "lobsy 1",
+  "description": "Complete website archive and restoration suite for Lobsy Group (lobsy.co.za) preserved from Wayback Machine snapshot 20230304112228, featuring interactive live site preview, asset mapper, directory tree, and download bundle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
